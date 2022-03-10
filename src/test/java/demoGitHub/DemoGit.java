@@ -10,5 +10,6 @@ public class DemoGit
 		System.out.println("User1 - FrameWork Practise");
 		
 		System.out.println("Commit");
+		System.out.println("Pull");
 	}
 }
