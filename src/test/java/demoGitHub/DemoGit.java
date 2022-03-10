@@ -8,5 +8,7 @@ public class DemoGit
 	public void demo()
 	{
 		System.out.println("User1 - FrameWork Practise");
+		
+		System.out.println("Commit");
 	}
 }
