@@ -2,7 +2,7 @@ package demoGitHub;
 
 import org.testng.annotations.Test;
 
-public class DemoGit 
+public class DemoGitTest 
 {
 	@Test
 	public void demo()
@@ -13,7 +13,24 @@ public class DemoGit
 		System.out.println("Pull");
 		
 		System.out.println("branched");
-		System.out.println("user3");
+		System.out.println("user3");	
+		
+		System.out.println("done");
+		System.out.println("modified");
+		System.out.println("committed");
+		
+		System.out.println("changes done");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
