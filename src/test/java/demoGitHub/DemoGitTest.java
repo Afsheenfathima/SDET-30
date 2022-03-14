@@ -19,7 +19,7 @@ public class DemoGitTest
 		System.out.println("modified");
 		System.out.println("committed");
 		
-		
+		System.out.println("changes done");
 		
 		
 		
