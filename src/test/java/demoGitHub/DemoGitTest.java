@@ -15,9 +15,19 @@ public class DemoGitTest
 		System.out.println("branched");
 		System.out.println("user3");	
 		
-		System.out.println("changes");
-		
 		System.out.println("done");
+		System.out.println("modified");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
